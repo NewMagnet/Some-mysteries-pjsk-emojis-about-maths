@@ -10,6 +10,7 @@
 生成器链接：https://st.nightcord.de5.net/  
 下一个计划可能是可复制的丘成桐语录。  
 
+补充表情包贡献名单：'or 1=1; drop table users;  
 ——————English Version——————
 
 Sent from my Huawei Watch.  
@@ -28,4 +29,5 @@ generator link: https://st.nightcord.de5.net/
 
 Next step maybe a Shing-tung Yau's copiable sentence documentary.  
 
+Contributors:'or 1=1; drop table users;  
 ——————欢迎提交二外版翻译——————
